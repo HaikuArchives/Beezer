@@ -1,11 +1,9 @@
-syntax: glob
-
 *.a
 *.make
 Makefile
 CMakeCache.txt
 cmake_install.cmake
-CMakeFiles/*
+CMakeFiles*
 Source/build
 GPATH
 GRTAGS
